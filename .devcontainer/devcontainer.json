@@ -4,5 +4,8 @@
 		"context": "..",
 		"dockerfile": "Dockerfile"
 	},
-	"remoteUser": "vscode"
+	"remoteUser": "vscode",
+	"features": {
+		"ghcr.io/dhoeric/features/hadolint:1": {}
+	}
 }
